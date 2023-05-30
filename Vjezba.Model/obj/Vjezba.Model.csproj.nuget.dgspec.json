@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\tvz\\asp.net\\vjezbe\\mvc-2021-22-vjezba-04-rjesenje\\mvc-2021-22-vjezba-04-rjesenje\\Vjezba\\Vjezba.Model\\Vjezba.Model.csproj": {}
+  },
+  "projects": {
+    "C:\\tvz\\asp.net\\vjezbe\\mvc-2021-22-vjezba-04-rjesenje\\mvc-2021-22-vjezba-04-rjesenje\\Vjezba\\Vjezba.Model\\Vjezba.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\tvz\\asp.net\\vjezbe\\mvc-2021-22-vjezba-04-rjesenje\\mvc-2021-22-vjezba-04-rjesenje\\Vjezba\\Vjezba.Model\\Vjezba.Model.csproj",
+        "projectName": "Vjezba.Model",
+        "projectPath": "C:\\tvz\\asp.net\\vjezbe\\mvc-2021-22-vjezba-04-rjesenje\\mvc-2021-22-vjezba-04-rjesenje\\Vjezba\\Vjezba.Model\\Vjezba.Model.csproj",
+        "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
+        "outputPath": "C:\\tvz\\asp.net\\vjezbe\\mvc-2021-22-vjezba-04-rjesenje\\mvc-2021-22-vjezba-04-rjesenje\\Vjezba\\Vjezba.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
